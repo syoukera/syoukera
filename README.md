@@ -1,4 +1,4 @@
-### 充電中...🤔
+### 稼働中🦈
 
 <!--
 **syoukera/syoukera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
